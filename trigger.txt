@@ -1,1 +1,1 @@
-photoprism/photoprism:preview registry.cn-hangzhou.aliyuncs.com/photoprism/photoprism:preview
+homeassistant/home-assistant:2024.6 registry.cn-hangzhou.aliyuncs.com/yaming116/home-assistant:2024.6
