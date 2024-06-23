@@ -1,2 +1,1 @@
-hectorqin/reader:openj9-latest registry.cn-hangzhou.aliyuncs.com/17687/reader:openj9-latest
-hectorqin/remote-webview registry.cn-hangzhou.aliyuncs.com/17687/remote-webview
+mariadb:11.4.2 registry.cn-hangzhou.aliyuncs.com/17687/mariadb:11.4.2
