@@ -1,1 +1,1 @@
-mariadb:11.4.2 registry.cn-hangzhou.aliyuncs.com/17687/mariadb:11.4.2
+mysql:8.2.0 registry.cn-hangzhou.aliyuncs.com/17687/mysql:8.2.0
