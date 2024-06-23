@@ -1,1 +1,1 @@
-photoprism/photoprism:preview registry.cn-hangzhou.aliyuncs.com/photoprism/photoprism:preview
+photoprism/photoprism:preview registry.cn-hangzhou.aliyuncs.com/17687/photoprism:preview
