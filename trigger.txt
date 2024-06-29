@@ -1,1 +1,1 @@
-mysql:8.2.0 registry.cn-hangzhou.aliyuncs.com/17687/mysql:8.2.0
+ghcr.io/suwayomi/tachidesk:latest registry.cn-hangzhou.aliyuncs.com/17687/tachidesk:latest
