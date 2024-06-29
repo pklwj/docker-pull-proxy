@@ -1,1 +1,2 @@
-ghcr.io/suwayomi/tachidesk:latest registry.cn-hangzhou.aliyuncs.com/17687/tachidesk:latest
+ghcr.io/flaresolverr/flaresolverr:latest registry.cn-hangzhou.aliyuncs.com/17687/flaresolverr:latest
+ghcr.io/suwayomi/tachidesk:preview registry.cn-hangzhou.aliyuncs.com/17687/tachidesk:preview
